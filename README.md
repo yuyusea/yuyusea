@@ -27,9 +27,9 @@
   ◈  QUEST LOG (Projects)
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 
-◆ CHAOS CHASE ─── Unity / C# ─── AI Mystery Game ─── Solo Dev
-◆ DEOKMOA ──────── Java / Android ─── Team Project ─── Bug Hunter
-◆ LangPath ─────── AI Language App ─── UI Design ─── UX Focused
+ ◆ CHAOS CHASE ─── Unity / C# ─── AI Mystery Game ─── Solo Dev
+ ◆ DEOKMOA ──────── Java / Android ─── Team Project ─── Bug Hunter
+ ◆ LangPath ─────── AI Language App ─── UI Design ─── UX Focused
 ```
 
 ```
@@ -37,9 +37,9 @@
   ◈  PASSIVE SKILLS
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 
-[ GRIT ]  Won't quit until it's fixed.
-[ OWN  ]  Not my bug? Still my problem.
-[ EYE  ]  One line at a time.
+ [ GRIT ]  Won't quit until it's fixed.
+ [ OWN  ]  Not my bug? Still my problem.
+ [ EYE  ]  One line at a time.
 ```
 
 ```
@@ -47,6 +47,6 @@
   ◈  CONTACT
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 
-  ✉  wkdghkwjd07@gmail.com
-  🌐 github.com/yuyusea
+ ✉  wkdghkwjd07@gmail.com
+ 🌐 github.com/yuyusea
 ```
